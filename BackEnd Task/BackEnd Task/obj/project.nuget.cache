@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zgnjpGXR3RefN2GsbtXtCMwzA1zoYxNnOapp3+eqb6nA+nTxrDuN2//UkIO/i269/zq4rGb6DwgfVO7+m8JBVQ==",
+  "dgSpecHash": "0dfrvvb0vQClWkNEbcu0dNIKhENo/RS1PgRt8o6y/ZWg+Z4tWDhFjCGZeu5Gfa76jIvzNfxSEE4KwiYMGWiFAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\task\\BackEnd Task\\BackEnd Task\\BackEnd Task.csproj",
+  "projectFilePath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\BackEnd-Task-10-05-2023\\BackEnd Task\\BackEnd Task\\BackEnd Task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xudiy\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\xudiy\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -7,5 +7,7 @@
         public string Oil { get; set; }
 
         public string Year { get; set; }
+        public int ModelId { get; set; }
+
     }
 }

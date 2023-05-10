@@ -3,14 +3,14 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Marka Car</h1>
 
 <div class="list-group">
     <ul class="list-group">
         @foreach(Marka marka in Model)
         {
-            <li class="list-group-item">
-                <a asp-controller="Model" asp-action="Index" asp-route-data="@marka.Id">
+            <li >
+                <a asp-controller="Model" asp-action="index" asp-route-id="@marka.Id">
                     @marka.MarkaName
             </a></li>
         }
